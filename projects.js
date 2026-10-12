@@ -12,22 +12,22 @@
 */
 window.OWLABS_PROJECTS = [
   {
-    title: "[Project name]",
-    problem: "[The real-world problem it solves, in a line or two]",
+    title: "Coming soon...",
+    problem: "",
     tags: ["[stack]", "[stack]"],
     link: "",
     icon: "bulb"
   },
   {
-    title: "[Project name]",
-    problem: "[The real-world problem it solves, in a line or two]",
+    title: "Coming soon...",
+    problem: "",
     tags: ["[stack]", "[stack]"],
     link: "",
     icon: "gear"
   },
   {
-    title: "[Project name]",
-    problem: "[The real-world problem it solves, in a line or two]",
+    title: "Coming soon...",
+    problem: "",
     tags: ["[stack]", "[stack]"],
     link: "",
     icon: "rocket"
